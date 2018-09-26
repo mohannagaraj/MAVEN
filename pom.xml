@@ -6,7 +6,7 @@
   
   <groupId>mohan.live.com</groupId>
   <artifactId>techgeegstuff</artifactId>
-  <packaging>war</packaging>
+  <packaging>jatr</packaging>
   <version>1.0-SNAPSHOT</version>
   
   <name>techgeegstuff</name>
